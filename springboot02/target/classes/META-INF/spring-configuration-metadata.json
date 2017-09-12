@@ -1,0 +1,62 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.zwy.demo.application.User",
+      "name": "com.zwy",
+      "type": "com.zwy.demo.application.User"
+    },
+    {
+      "sourceType": "com.zwy.demo.application.ConfigBean",
+      "name": "my",
+      "type": "com.zwy.demo.application.ConfigBean"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.zwy.demo.application.User",
+      "name": "com.zwy.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.zwy.demo.application.User",
+      "name": "com.zwy.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.zwy.demo.application.ConfigBean",
+      "name": "my.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.zwy.demo.application.ConfigBean",
+      "name": "my.greeting",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.zwy.demo.application.ConfigBean",
+      "name": "my.max",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.zwy.demo.application.ConfigBean",
+      "name": "my.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.zwy.demo.application.ConfigBean",
+      "name": "my.number",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.zwy.demo.application.ConfigBean",
+      "name": "my.uuid",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.zwy.demo.application.ConfigBean",
+      "name": "my.value",
+      "type": "java.lang.String"
+    }
+  ]
+}
